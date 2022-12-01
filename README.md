@@ -81,4 +81,4 @@ VIII. CONSULTAS EN SQL
 
 EJERCICIOS EN CLASE
 BASE DE DATOS DB FIDDLE
-https://www.db-fiddle.com/f/5AM6pmb8qC8Zre2WnQMzWv/0
+https://www.db-fiddle.com/f/5AM6pmb8qC8Zre2WnQMzWv/1
