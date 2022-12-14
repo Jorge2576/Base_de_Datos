@@ -85,4 +85,4 @@ EJERCICIOS EN CLASE
 BASE DE DATOS DB FIDDLE
 https://www.db-fiddle.com/f/btshY2xdQFoYiUc7KctR51/1
 BASE DE DATOS CONSULTA CON CREACION DE NOTAS
-https://www.db-fiddle.com/f/rP3og6ENhZWQ217Cfob7ca/0
+https://www.db-fiddle.com/f/wH6PRm9mQdjKzksG86dSRF/1
